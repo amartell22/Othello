@@ -1,0 +1,22 @@
+# Ignore compiled object files
+*.o
+
+# Ignore the executable file
+othello
+
+# Ignore temporary files created by editors
+*.swp
+*.swo
+*.tmp
+*.bak
+*.~*
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts
+build/
